@@ -1,6 +1,6 @@
 # :information_source: Important notice :information_source:
 
-Starting with [version 2.0.9.2](https://github.com/MarlinFirmware/Marlin/releases/tag/2.0.9.2), my modifications have been integrated into Marlin.
+Starting with [version 2.0.9.2](https://github.com/MarlinFirmware/Marlin/releases/tag/2.0.9.2), Desuuu's modifications have been integrated into Marlin.
 
 Please switch over to the [Marlin repository](https://github.com/MarlinFirmware/Marlin).
 
